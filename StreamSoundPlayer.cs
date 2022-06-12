@@ -3,7 +3,7 @@ using System.Threading;
 using OpenTK.Audio.OpenAL;
 
 
-namespace OpenALWaveTest
+namespace SineWaveGenerator
 {
     internal class StreamSoundPlayer : ISoundPlayer
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace OpenALWaveTest
+namespace SineWaveGenerator
 {
     internal class SineWaveProvider : ISampleProvider
     {

@@ -1,4 +1,4 @@
-﻿namespace OpenALWaveTest
+﻿namespace SineWaveGenerator
 {
     internal enum SoundPlayerState
     {

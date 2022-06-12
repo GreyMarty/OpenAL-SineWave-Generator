@@ -2,7 +2,7 @@
 using System.Windows.Input;
 
 
-namespace OpenALWaveTest
+namespace SineWaveGenerator
 {
     internal class MainWindowViewModel : INotifyPropertyChanged
     {

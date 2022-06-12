@@ -1,7 +1,7 @@
 ﻿using System.Windows;
 
 
-namespace OpenALWaveTest
+namespace SineWaveGenerator
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

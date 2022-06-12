@@ -1,11 +1,11 @@
-﻿<Window x:Class="OpenALWaveTest.MainWindow"
+﻿<Window x:Class="SineWaveGenerator.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:OpenALWaveTest"
+        xmlns:local="clr-namespace:SineWaveGenerator"
         mc:Ignorable="d"
-        Title="Wave Test" Height="150" Width="300" ResizeMode="NoResize">
+        Title="SineWave Generator" Height="150" Width="300" ResizeMode="NoResize">
     <Grid Margin="5">
         <Grid.RowDefinitions>
             <RowDefinition Height="3*"/>
